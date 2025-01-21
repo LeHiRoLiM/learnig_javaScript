@@ -1,4 +1,4 @@
-function exibirNome(texto){
-    console.log(`Olá ${texto}`);
+function exibirNome(texto1,texto2){
+    console.log(`Saja Bem-Vindo ${texto1} e seu carro é um ${texto2}`)
 }
-exibirNome('Lehi');
+exibirNome('lehi', 'land Rover');
